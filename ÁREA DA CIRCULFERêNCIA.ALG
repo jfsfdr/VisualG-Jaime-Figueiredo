@@ -1,14 +1,14 @@
-Algoritmo "Área da circulferência"
-// Descrição   : Calculo Area Circulferênca
+Algoritmo "Ãrea da circulferÃªncia"
+// DescriÃ§Ã£o   : Calculo Area CirculferÃªnca
 // Autor(a)    : Jaime Figueiredo
 // Data atual  : 21/09/2017
 Var
 raio,area:real
 
 Inicio
-escreva("Qual é o raio?")
+escreva("Qual Ã© o raio?")
 leia(raio)
 area<-3.14 * raio *raio
-Escreva("A área é ?",area)
+Escreva("A Ã¡rea Ã© ",area)
 
 Fimalgoritmo
