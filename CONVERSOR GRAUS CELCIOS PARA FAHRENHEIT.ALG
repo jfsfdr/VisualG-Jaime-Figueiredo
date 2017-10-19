@@ -1,5 +1,5 @@
 Algoritmo "Conversor graus Celcios para Fahrenheit"
-// Descrição   : Converte Cº para Fº
+// DescriÃ§Ã£o   : Converte CÂº para FÂº
 // Autor(a)    : Jaime Figueiredo
 // Data atual  : 21/09/2017
 Var
@@ -7,10 +7,10 @@ c,f :real
 
 
 Inicio
-Escreva("Qual é a tempratura em Cº ?")
+Escreva("Qual Ã© a tempratura em CÂº ?")
 Leia(c)
 f<-c* 9/5 +32
-escreva ("A tempratura em Cºé:",f)
+escreva ("A tempratura em FÂºÃ©:",f)
 
 
 Fimalgoritmo
